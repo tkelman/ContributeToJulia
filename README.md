@@ -108,6 +108,17 @@ Implementations of common data structures.
 :white_check_mark: :hourglass:
 
 
+### HPC/Parallel packages
+
+##### [JuliaParallel/MPI.jl](https://github.com/JuliaParallel/MPI.jl)
+Wrappers around the MPI library for distributed memory computing.
+:book:
+
+##### [JuliaGPU/CUSPARSE.jl](https://github.com/JuliaGPU/CUSPARSE.jl)
+Wrappers around the CUSPARSE library for GPU-based sparse linear algebra.
+:book: :hourglass: :white_check_mark:
+
+
 ### Graphics and visulization packages
 
 ##### [JuliaLang/Color.jl](https://github.com/JuliaLang/Color.jl)
