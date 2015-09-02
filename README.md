@@ -85,7 +85,7 @@ probably be a bad use of everyones time - and someone has to maintain the new co
 If your changes aren't immediately reviewed and accepted, don't take it
 personally: the maintainers might just be busy with their day-to-day work!
 
-These packages have all been listed because they are dependended on by
+These packages have all been listed because they are depended on by
 many other packages, directly or indirectly, or are popular packages.
 If you are a package owner and would like to add your package here, please
 submit a pull request.
