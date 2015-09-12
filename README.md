@@ -137,10 +137,6 @@ Parses Uniform Resource Identifiers (URIs).
 More packages directly or indirectly dependent on this package than any other!
 :white_check_mark:
 
-##### [JuliaWeb/HttpCommon.jl](https://github.com/JuliaWeb/HttpCommon.jl)
-Types and functions for working with HTTP.
-:white_check_mark: :bug:
-
 
 ### Statistics packages
 
